@@ -1,7 +1,8 @@
 imu-puppet
 ==========
 
-An investigation of the expressive potential of a simple 6-degree of freedom based marionette.
+An investigation of the expressive potential of a simple inertial motion unit
+based marionette. Here is a [short video of an imu-puppet in action](https://vine.co/v/hzb1Pqjn9x5).
 
 Hardware
 ========
