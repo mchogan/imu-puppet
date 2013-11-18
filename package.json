@@ -1,9 +1,9 @@
 {
-  "name": "node-ws-imu-puppet",
+  "name": "node-ws-canary",
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mchogan/imu-puppet.git"
+    "url": "git://github.com/einaros/ws.git"
   },
   "dependencies": {
     "ws": "0.4.x",
